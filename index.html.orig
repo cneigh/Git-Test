@@ -10,6 +10,8 @@
 <<<<<<< HEAD
 <a href="/home.php">Click here to access home page</a>
 <p>I added this line</p>
+=======
 <a href="http://swilless.github.com/home.php">Click here to access home page</a>
+>>>>>>> 45198d0fa6126f4f57d2b5d73f1724f440d1da08
 </body>
 </html>
