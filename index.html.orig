@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Index</title>
+</head>
+<body>
+
+<h1>Index Page</h1>
+<p>Welcome to my Github index page</p>
+<p>Mark added this paragraph</p>
+<a href="/home.php">Click here to access home page</a>
+<p>I added this line</p>
+</body>
+</html>
